@@ -68,7 +68,10 @@
     "pwa-switcher": false,
     "publishChangesOnly": true,
     "publishEditFolder": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A1464902%2C%22domain%22%3A%22cfstudioph.mobirisesite.com%22%7D",
+    "publishPath": "file:///C:/Users/esch/Documents/GitHub/cfstudio/"
   },
   "pages": {
     "index.html": {
